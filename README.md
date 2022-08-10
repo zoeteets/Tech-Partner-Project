@@ -1,7 +1,7 @@
 # Tech-Partner-Project
 # With Nashville Software School
 
-## For details on the process, please read the [Presentation of Conclusions]()
+## For details on the process, please read the [Presentation of Conclusions](https://sites.google.com/view/nss-tech-partner-project/introduction)
 #### Team members: Zoe Teets, Rocky Johnson & Colin Anderson
 #### Route of interest: Route 55 (Murfreesboro Pike)
 
