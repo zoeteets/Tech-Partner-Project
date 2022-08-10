@@ -1,4 +1,6 @@
 # Tech-Partner-Project
+## Team members: Rocky Johnson & Colin Anderson
+## Route of interest: Route 55 (Murfreesboro Pike)
 
 # WeGo Public Transit
 
